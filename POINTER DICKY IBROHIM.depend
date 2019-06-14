@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1463711158 source:g:\pointer dicky ibrohim\pointer dicky ibrohim\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1463711511 g:\pointer dicky ibrohim\pointer dicky ibrohim\header.h
+
+1463711511 source:g:\pointer dicky ibrohim\pointer dicky ibrohim\pustaka.c
+	"header.h"
+
+1463711539 source:k:\ \algorithm programming pertemuan 11\pointer dicky ibrohim\pointer dicky ibrohim\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1463711511 k:\ \algorithm programming pertemuan 11\pointer dicky ibrohim\pointer dicky ibrohim\header.h
+
+1463711511 source:k:\ \algorithm programming pertemuan 11\pointer dicky ibrohim\pointer dicky ibrohim\pustaka.c
+	"header.h"
+
+1463711511 source:g:\algorithm programming pertemuan 11\pointer dicky ibrohim\pointer dicky ibrohim\pustaka.c
+	"header.h"
+
+1463711511 g:\algorithm programming pertemuan 11\pointer dicky ibrohim\pointer dicky ibrohim\header.h
+
+1463799583 source:g:\algorithm programming pertemuan 11\pointer dicky ibrohim\pointer dicky ibrohim\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1463799583 source:e:\core of dicky ibrohim\education store\height school\algorithm programming\final term algorithm programming\[pointer] pointer dicky ibrohim\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1463711511 e:\core of dicky ibrohim\education store\height school\algorithm programming\final term algorithm programming\[pointer] pointer dicky ibrohim\header.h
+
+1463711511 source:e:\core of dicky ibrohim\education store\height school\algorithm programming\final term algorithm programming\[pointer] pointer dicky ibrohim\pustaka.c
+	"header.h"
+
